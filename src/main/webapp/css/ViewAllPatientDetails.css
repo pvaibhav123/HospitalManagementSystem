@@ -1,0 +1,19 @@
+@charset "ISO-8859-1";
+
+*{
+	background-color: aquamarine;
+}
+
+h2{
+	text-align: center;
+}
+table{
+	border-collapse: collapse;
+}
+th{
+	color:red;
+}
+td{
+    
+    text-align: center;
+}
